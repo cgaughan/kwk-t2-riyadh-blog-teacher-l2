@@ -34,8 +34,8 @@ h1 {
   color: #fff;
 }
 
-.myEdits {
-  color: #fff;
+h2:first-child { 
+    color: white;
 }
 
 h2 {
